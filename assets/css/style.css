@@ -131,6 +131,21 @@ margin-top: 120px;
     } 
 
 
+.container { 
+    width: 90%;  
+    margin: 0 auto;  
+    padding: 0 2%; 
+    }
+    
+.columns { 
+    display: flex; 
+    justify-content: space-around; 
+    gap: 30px;  
+    padding: 0 5%; 
+    } 
+
+
+
 /* Cakes */ 
 .cakes-container { 
      margin-top: 100px; 
