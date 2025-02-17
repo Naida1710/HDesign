@@ -28,6 +28,16 @@ header {
     width: 100%;
     box-shadow: 0 2px 2px #dadada;
 }
+
+header a {
+    text-decoration: none;
+    color: darkgray;
+    text-transform: capitalize;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+
 /* Main */
 main {
    flex: 1 0 auto; 
