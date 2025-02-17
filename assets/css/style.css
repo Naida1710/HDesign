@@ -34,7 +34,20 @@ header a {
     color: darkgray;
     text-transform: capitalize;
     font-style: italic;
+}
+   
+#menu {
+    font-size: 110%;
     letter-spacing: 2px;
+    list-style-type: none;   
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 2px solid #dadada;
 }
 
 
