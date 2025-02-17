@@ -31,6 +31,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+      
 }
 
 header a {
@@ -56,6 +57,7 @@ header a {
 
 #logo {
     width: 60%;
+    margin-top: 25px; 
 }
 
 /* Navbar styles with dropdown toggle */
