@@ -20,7 +20,7 @@ overflow: auto;
 font-family: 'Lato', sans-serif; 
 } 
 
-/* Header */
+/* Header and navbar menu list */
 header {
     padding: 0 1rem;
     position: fixed;
@@ -49,6 +49,17 @@ header a {
 .active {
     border-bottom: 2px solid #dadada;
 }
+
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #dadada;
+    display: none;
+ }
+
 
 
 /* Main */
