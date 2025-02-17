@@ -95,6 +95,13 @@ flex: 1 0 auto;
 margin-top: 120px;
 }
 
+
+/* Cakes */ 
+.cakes-container { 
+     margin-top: 100px; 
+     margin-bottom: 150px; 
+    } 
+
 /* Prefooter */
 .prefooter { 
     text-align: center; 
