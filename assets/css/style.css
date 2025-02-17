@@ -32,8 +32,7 @@ header {
     justify-content: space-between;
     align-items: baseline;
     margin-top: 15px;
-    border-top: 2px solid #dadada; 
-      
+    border-top: 2px solid #dadada;      
 }
 
 header a {
@@ -93,7 +92,7 @@ nav {
 main {
 /* Make main element takes up all the surplus place to push footer down */
 flex: 1 0 auto; 
-margin-top: 90px;
+margin-top: 120px;
 }
 
 /* Footer */
