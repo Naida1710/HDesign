@@ -86,9 +86,11 @@ nav {
 
 /* Main */
 main {
-   flex: 1 0 auto; 
-   /* Make main element takes up all the surplus place to push footer down */
+/* Make main element takes up all the surplus place to push footer down */
+flex: 1 0 auto; 
+margin-top: 50px;
 }
+
 /* Footer */
     
      
