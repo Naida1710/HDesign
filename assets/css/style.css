@@ -123,6 +123,11 @@ margin-top: 120px;
 .about-us-text p { 
     margin-bottom: 20px; 
     display: block;  
+    }
+    
+.about-us-heading { 
+    margin-bottom: 30px; 
+    text-align: center; 
     } 
 
 
