@@ -95,6 +95,12 @@ flex: 1 0 auto;
 margin-top: 120px;
 }
 
+.prefooter { 
+    text-align: center; 
+    margin-top: 100px; 
+    margin-bottom: 100px; 
+    } 
+
 /* Footer */
 footer { 
      background-color: #dadada; 
