@@ -469,6 +469,22 @@ html {
         font-size: 13px;
     }
 
+    .prefooter {
+        margin: 60px auto;
+    }
+
+    .prefooter h3 {
+        font-size: 22px;
+    }
+
+    .prefooter p {
+        font-size: 15px;
+    }
+
+    .hr2 {
+        width: 70%;
+    }
+
 }
 
 @media screen and (min-width: 992px) { 
@@ -502,5 +518,20 @@ html {
     .copyright {
         font-size: 10px;
         padding: 8px;
+    }
+    .prefooter {
+        margin: 40px auto;
+    }
+
+    .prefooter h3 {
+        font-size: 20px;
+    }
+
+    .prefooter p {
+        font-size: 14px;
+    }
+
+    .hr2 {
+        width: 80%;
     }
 }
