@@ -22,6 +22,8 @@ font-family: 'Lato', sans-serif;
 
 /* Header and navbar menu list */
 header {
+    background-color: white;
+    margin-top: 15px;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -31,7 +33,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    margin-top: 15px;
     border-top: 2px solid #dadada;      
 }
 
@@ -159,7 +160,7 @@ margin-top: 120px;
 /* About us section and image */ 
 .about-us { 
     display: flex; 
-    padding: 5%; 
+   padding: 5%;
     justify-content: space-between; 
     max-width: 1200px; 
     margin: 0 auto; 
@@ -171,7 +172,7 @@ margin-top: 120px;
 .about-us-img { 
     width: 30%; 
     max-width: 350px; 
-    height: auto; max-height: 100%;  
+    height: auto;   
     object-fit: contain;  
     align-self: flex-start;  
     } 
@@ -300,10 +301,7 @@ margin-top: 120px;
     width: 88%; 
     } 
         
-         
-
-
-
+        
 
 /* Cakes */ 
 .cakes-container { 
