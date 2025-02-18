@@ -130,7 +130,7 @@ margin-top: 120px;
     text-align: center; 
     } 
 
-
+/* Columns-Services */
 .container { 
     width: 90%;  
     margin: 0 auto;  
@@ -173,7 +173,17 @@ margin-top: 120px;
     margin-bottom: 20px; 
     display: block; 
     } 
+ 
 
+.column-main-heading { 
+    margin-bottom: 20px; 
+    margin-top:90px; 
+    color: darkgray; 
+    text-align: right; 
+    width: 88%; 
+    } 
+        
+         
 
 
 
