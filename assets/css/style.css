@@ -455,14 +455,30 @@ html {
         width: 100%;
         margin-top: 10px;
     }
-}
 
- 
+    #photos {
+        grid-template-columns: repeat(4, 1fr); 
+    }
+
+}
 
 @media screen and (min-width: 992px) { 
     #menu a:hover { 
     border-bottom: 1px solid #dadada; 
     } 
+
+    #photos {
+        grid-template-columns: repeat(4, 1fr); 
+    }
 }
-    
-     
+
+@media screen and (max-width: 480px) {
+    #photos {
+        grid-template-columns: repeat(2, 1fr); 
+    }
+
+    #photos img:hover {
+        transform: none; 
+        box-shadow: none;
+    }
+}
