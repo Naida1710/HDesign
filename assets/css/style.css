@@ -40,7 +40,10 @@ header a {
     text-decoration: none;
     color: darkgray;
     text-transform: capitalize;
-    font-style: italic;
+font-style: italic;
+font-family: 'Oswald', sans-serif;
+    
+
    
 }
    
@@ -50,11 +53,13 @@ header a {
     list-style-type: none; 
     gap: 25px;
     
+
+   
+    
 }
 
 #menu > li {
     margin-bottom: 1rem;
-    
     
 }
 
@@ -103,6 +108,7 @@ nav {
      background-color: rgba(211, 211, 211, .7); 
      font-size: 2rem; 
      text-align: center; 
+     
      min-height: 200px; 
      width: 80%; 
      padding-top: 40px; 
