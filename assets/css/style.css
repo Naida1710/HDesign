@@ -41,17 +41,20 @@ header a {
     color: darkgray;
     text-transform: capitalize;
     font-style: italic;
+   
 }
    
 #menu {
-    font-size: 100%;
-    letter-spacing: 2px;
+    font-size: 110%;
+    letter-spacing: 3px;
     list-style-type: none; 
+    gap: 25px;
     
 }
 
 #menu > li {
     margin-bottom: 1rem;
+    
     
 }
 
@@ -66,14 +69,15 @@ header a {
 
 /* Navbar styles with dropdown toggle */
 nav {
-    
+  
     position: absolute;
     width: 100%;
     left: 0;
     padding: 0 1rem;
+    gap: 20px;
     box-shadow: 0 2px 2px #dadada;
     display: none;
-    top: 100%;
+    top: -25px;
  }
 
  /* Nav toggle */
@@ -200,7 +204,8 @@ margin-top: 120px;
 .image-reviews { 
     position: relative; 
     width: 100%; 
-    height: 700px;  
+    height: 700px; 
+    overflow: hidden; 
     } 
         
 .reviews { 
@@ -210,7 +215,8 @@ margin-top: 120px;
     } 
     
 .reviews-container { 
-    position: absolute; 
+    position: absolute;
+    flex-wrap: wrap; 
     top: 50%;  
     left: 50%;  
     display: flex;  
@@ -229,7 +235,7 @@ margin-top: 120px;
     color: #3a3a3a; 
     font-size: 1em; 
     min-width: 200px; 
-    max-width: 300px; 
+    max-width: 300px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
     opacity: 0.8;  
     border: 2px solid #dadada; 
@@ -545,12 +551,14 @@ html {
     }
     
     .cakes-images {
-        grid-template-columns: repeat(2, 1fr); 
+        grid-template-columns: repeat(2, 1fr);
+        
     }
 
     .rounded-image {
         width: 110px;
         height: 110px;
+       
     }
     .columns { 
         flex-direction: column;
@@ -565,4 +573,14 @@ html {
     .column-main-heading {
         text-align: center; 
     }
+    .comment-box {
+        flex: 1 1 calc(50% - 20px); 
+        max-width: calc(50% - 20px); 
+    }
+
+    .reviews-container {
+        max-height: none; 
+        padding: 10px; 
+    }
+   
 }
