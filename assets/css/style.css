@@ -20,7 +20,7 @@ overflow: auto;
 font-family: 'Lato', sans-serif; 
 } 
 
-/* Header and navbar menu list */
+/* Header, logo image and navbar menu list */
 header {
     background-color: white;
     margin-top: 15px;
@@ -40,27 +40,19 @@ header a {
     text-decoration: none;
     color: black;
     text-transform: capitalize;
-font-style: italic;
-font-family: 'Oswald', sans-serif;
-    
-
-   
+    font-style: italic;
+    font-family: 'Oswald', sans-serif;  
 }
    
 #menu {
     font-size: 110%;
     letter-spacing: 3px;
     list-style-type: none; 
-    gap: 25px;
-    
-
-   
-    
+    gap: 25px;   
 }
 
 #menu > li {
-    margin-bottom: 1rem;
-    
+    margin-bottom: 1rem;   
 }
 
 .active {
@@ -74,7 +66,6 @@ font-family: 'Oswald', sans-serif;
 
 /* Navbar styles with dropdown toggle */
 nav {
-  
     position: absolute;
     width: 100%;
     left: 0;
@@ -100,7 +91,7 @@ nav {
 
  /* Hero image and cover-text */
  #hero { 
-     height: 800px; 
+     height: 600px; 
      width: 100%; 
      background: url("../images/hero1.png") no-repeat center center/cover; 
     }
@@ -114,7 +105,7 @@ nav {
      padding-top: 40px; 
      padding-left: 10px; 
      position: absolute; 
-     bottom: 30px; 
+     bottom: 80px; 
      color: #3a3a3a; 
     } 
    
