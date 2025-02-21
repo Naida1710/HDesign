@@ -38,7 +38,7 @@ header {
 
 header a {
     text-decoration: none;
-    color: darkgray;
+    color: black;
     text-transform: capitalize;
 font-style: italic;
 font-family: 'Oswald', sans-serif;
@@ -108,7 +108,7 @@ nav {
      background-color: rgba(211, 211, 211, .7); 
      font-size: 2rem; 
      text-align: center; 
-     
+     font-family: 'Oswald', sans-serif;
      min-height: 200px; 
      width: 80%; 
      padding-top: 40px; 
@@ -323,7 +323,7 @@ margin-top: 120px;
 .column-main-heading { 
     margin-bottom: 20px; 
     margin-top:100px; 
-    color: darkgray; 
+    color: #3a3a3a; 
     text-align: right; 
     width: 88%; 
     } 
@@ -360,7 +360,7 @@ margin-top: 120px;
     }  
     
 .rounded-image:hover { 
-    transform: scale(2.2); /* Zoom in effect when hovering */ 
+    transform: scale(2.2); 
      } 
     
      
@@ -451,7 +451,8 @@ footer {
     height: 100%; 
     cursor: pointer; 
     object-fit: cover; 
-    transition: transform 0.3s ease-in-out, z-index 0.3s ease-in-out; 
+    transition: transform 0.3s ease-in-out, z-index 0.3s ease-in-ou
+   
     } 
     
 #photos img:hover { 
