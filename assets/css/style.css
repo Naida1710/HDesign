@@ -332,9 +332,23 @@ margin-top: 120px;
     color: #3a3a3a; 
     text-align: right; 
     width: 88%; 
+    animation: runAcross 15s linear infinite;
     } 
-        
-        
+
+    @keyframes runAcross {
+        0% {
+            transform: translateX(-100%); /* Start off-screen to the left */
+        }
+        20% {
+            transform: translateX(0); /* Move to the start position */
+        }
+        80% {
+            transform: translateX(0); /* Stay at the start position */
+        }
+        100% {
+            transform: translateX(100%); /* Move to off-screen to the right */
+        }
+    }
 
 /* Cakes */ 
 .cakes-container { 
