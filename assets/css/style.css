@@ -439,7 +439,26 @@ footer {
     } 
     .networks i {
         font-size: 50px;
-    }   
+
+    }
+    .facebook {
+        transition: transform 0.3s ease-in-out;
+    }
+    .facebook:hover {
+        transform: scale(1.2);  
+    } 
+    .instagram {
+        transition: transform 0.3s ease-in-out;
+    }
+    .instagram:hover {
+        transform: scale(1.2);  
+    } 
+    .pinterest {
+        transition: transform 0.3s ease-in-out;
+    }
+    .pinterest:hover {
+        transform: scale(1.2);  
+    } 
 
 /* Copyright */
 .copyright { 
