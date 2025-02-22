@@ -462,19 +462,24 @@ html {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-.submit-btn {
-    background-color: black;
-    color: white;
-    display: block;
-    border: none;
-    cursor: pointer;
-    margin: 20px auto;
-    font-size: 16px;
+
+   
     
+.submit-btn {
+    background: linear-gradient(45deg, #ff6b6b, #f7d9a1);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
 }
 .submit-btn:active {
     transform: scale(0.95); 
     transition: transform 0.1s ease; 
+}
+.submit-btn:hover {
+    background: linear-gradient(45deg, #f7d9a1, #ff6b6b); /* Inverted gradient on hover */
 }
 
 form {
