@@ -458,7 +458,10 @@ html {
 
 
 /* Contact page */
-
+#contact {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 .submit-btn {
     background-color: black;
     color: white;
@@ -466,60 +469,71 @@ html {
     border: none;
     cursor: pointer;
     margin: 20px auto;
+    font-size: 16px;
     
 }
 
 form {
-    width: 90%; 
-    max-width: 500px; 
-    padding: 40px; 
-    background: #d3b1a2; 
+  
+    width: 100%; 
+    max-width: 600px; 
+   
+   
+    background: #dadada; 
     border-radius: 30px; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    padding: 40px;
     margin: 50px auto;
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 20px;
 }
 .row {
-   
-  justify-content: center;
-  align-items: center;
+   display: flex;
+ justify-content: space-between;
+ gap: 15px;
+ width: 100%;
    
     
 
 }
 
 
-.field {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-margin-bottom: 15px;
+
     
    
+   
 
+.field {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+   
+
+  
 }
 
 label {
-    
+    display: block;
     font-size: 16px;
-    color: #808080;
+    color: #3a3a3a;
     text-align: left;
-    margin-bottom: 5px;
-    
+    margin-bottom: 1px;
+   
+  
     
    
 }
 
 
 input[type="datetime-local"] {
-    padding: 8px;
+    
     border: 1px solid #3a3a3a;
-    background: #dadada;
-    width: 100%; 
+    background: darkgray;
     text-align: center;
+    color: black;
 
 }
 input:focus, textarea:focus {
@@ -534,29 +548,18 @@ input:focus, textarea:focus {
 
   input, textarea {
     width: 100%;
-    max-width: 400px;
     padding: 10px;
-    margin: 0 auto;
-    display: block;
+    font-size: 16px;
    border-radius: 5px;
-    background-color: #d3b1a2;
-    border: 1px solid #dadada;
+    background-color: darkgray;
+    border: 1px solid #3a3a3a;
+margin-bottom: 20px;
+margin-top: 2px;
    
   }
  
-.field input {
-    margin-top: 0;
-}
 
 
-
-.field label {
-    margin-bottom: 5px; 
-    margin-top: 0;
-}
-.field input {
-    margin-top: 0; 
-}
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px){ 
