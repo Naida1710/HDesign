@@ -136,7 +136,7 @@ nav {
     border: none; 
     cursor: pointer; 
     border-radius: 5px; 
-    transition: background 0.3 ease,  box-shadow 0.3s ease, transform 0.3s ease; 
+    transition: background 0.3 ease,  box-shadow 0.3s ease; 
     margin-top: 30px; 
     margin-bottom: 10px; 
     } 
@@ -145,7 +145,7 @@ nav {
     .button:hover {
         background: linear-gradient(45deg, #f7d9a1, #ff6b6b);
         box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
-        transform: scale(1.1); 
+        animation: pulse 0.6s forwards;
     }
     @keyframes pulse {
         0% {
