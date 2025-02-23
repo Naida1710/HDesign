@@ -93,7 +93,7 @@ nav {
  #hero { 
      height: 600px; 
      width: 100%; 
-     background: url("../images/hero1.png") no-repeat center center/cover; 
+     background: url("../images/hero1.webp") no-repeat center center/cover; 
     }
 #cover-text { 
      background-color: rgba(211, 211, 211, .7); 
@@ -129,10 +129,10 @@ nav {
 
 /* Button CTA */ 
 .button { 
-    padding: 10px 20px; 
+    padding: 10px 20px;
+    font-size: 22px;
     color: white; 
     background: linear-gradient(45deg, #ff6b6b, #f7d9a1); 
-    font-size: 1.1em; 
     border: none; 
     cursor: pointer; 
     border-radius: 5px; 
@@ -439,10 +439,15 @@ footer {
     } 
     .networks i {
         font-size: 50px;
+        color:white ;
+    
 
     }
+
+   
     .facebook {
         transition: transform 0.3s ease-in-out;
+       
     }
     .facebook:hover {
         transform: scale(1.2);  
@@ -455,6 +460,7 @@ footer {
     } 
     .pinterest {
         transition: transform 0.3s ease-in-out;
+        
     }
     .pinterest:hover {
         transform: scale(1.2);  
@@ -518,10 +524,11 @@ html {
     background: linear-gradient(45deg, #ff6b6b, #f7d9a1);
     border: none;
     color: white;
-    padding: 10px 20px;
+    font-size: 22px;
     border-radius: 5px;
     cursor: pointer;
     transition: background 0.3s;
+    padding: 10px 20px;
 }
 .submit-btn:active {
     transform: scale(0.95); 
