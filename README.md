@@ -1,6 +1,7 @@
 # Hedona Design-wedding planning, design and floral 
 
-Hedona Design is a wedding planning website designed to showcase services, inspiration, and booking options for couples looking to create a beautiful and memorable wedding experience. This site highlights event planning, floral arrangements, cake design, and wedding coordination services.
+Hedona Design is a website dedicated to providing wedding planning, coordination, and floral arrangement services. The site aims to help couples create unforgettable moments with personal and intimate wedding experiences. The website features detailed information about services, a gallery of previous work, and an easy booking system for consultations.
+
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
@@ -9,112 +10,160 @@ Hedona Design is a wedding planning website designed to showcase services, inspi
 
 + **Navigation Bar**
 
-  + Featured on all pages, the full responsive navigation bar includes links to Logo, Home page, About Us page, Services page, Gallery page, Cake page and Contact page.
-  + This section will allow the user to easily navigate from page to page across all devices.
+  + Present on all pages, the fully responsive navigation bar includes links to the Home page, About Us section, Services page, Gallery, Cakes, and Contact page.
+
+  + Includes a dropdown menu for mobile navigation.
+
+  + Ensures seamless navigation across all devices.
+
+
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
 + **Home page**
  
-  - This section introduces the user to Hedona Design with an eye catching hero image and cover text  to grab their attention.
+  + Provides an overview of Hedona Design with an engaging hero section.
+
+  + Features a call-to-action (CTA) button for booking a consultation.
+
+  + Includes a prominent banner image with a brand message.
+
+
+
+
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __About Us Section__
++ **About Us Section**
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
++ Introduces the team and philosophy behind Hedona Design.
+
++ Showcases the brand’s mission and dedication to crafting memorable wedding experiences.
+
++ Features an image collage of wedding designs and services.
+
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Review Section__
+- __Services Section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
++ Details wedding services such as cake design, floral arrangements, and event planning.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
++ Each section is complemented with images and descriptions.
 
-- __What We Do Section (Services)__
++ Introduces a structured service breakdown: Cakes, Design & Flowers, and Coordination.
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-- __Cake gallery Section__
++ **Gallery Page**
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
++ Displays a portfolio of previous wedding projects.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
++ Uses an interactive grid layout that enlarges images on hover.
 
-- __Prefooter Section__
++ Features high-resolution images from past weddings.
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-- __The Footer__ 
++ **Cakes Section**
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
++ Highlights custom wedding cakes created by Hedona Design.
+
++ Features an image carousel of cake designs.
+
++ Includes close-up visuals of handcrafted cakes and intricate details.
+
+
+![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+
++ **Contact Page**
+
++ Includes a contact form for inquiries and booking.
+
++ Features an interactive Google Map displaying the business location.
+
++ Allows users to book an appointment with an integrated date and time selector.
+
+
+![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+
++ **Reviews Section**
+
++ Displays testimonials from satisfied clients in an engaging layout.
+
++ Contains a dynamic sliding review section.
+
+
++ **Prefooter Section**
+
++ Displays the inspiration for the logo name.
+
+
++ **Footer Section**
+
++ The section also includes a Facebook, Pinterest and Instagram social link that will open up in a new tab for easy navigation.
+
++ The section also includes the phone number of Hedona Design company, mail and city location.
+
+
+
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
-- Another feature idea
++ Add a detailed blog section with wedding planning tips and inspiration.
+
++ Implement an online booking calendar for real-time scheduling.
+
++ Include an FAQ section for common inquiries.
+
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
++ Lighthouse Performance Testing
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
++ The website has been tested using Lighthouse, achieving high accessibility and performance scores.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
++ **Technology**
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
++ HTML
++ CSS
++ Gitpod
++ Github
++ Visual Studio
 
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official W3C validator.
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official (Jigsaw) validator.
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
++ Fixed minor form submission issues before deployment.
+
++ Addressed layout inconsistencies on mobile devices.
+
 
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
++ The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  + In the GitHub repository, navigate to the Settings tab 
+  + From the source section drop-down menu, select the Master Branch
+  + Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+  + The live link can be found here - https://github.com/Naida1710/HDesign.git
+
+
 
 
 ## Credits 
