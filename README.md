@@ -40,7 +40,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 + Features an image collage of wedding designs and services.
 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![alt text](assets/screenshot/screenshot5.png "Screenshot of the About Us Section")
 
 - __Services Section__
 
@@ -51,7 +51,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 + Introduces a structured service breakdown: Cakes, Design & Flowers, and Coordination.
 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![alt text](assets/screenshot/screenshot7.png "Screenshot of the Services Section")
 
 + **Gallery Page**
 
@@ -62,7 +62,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 + Features high-resolution images from past weddings.
 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![alt text](assets/screenshot/screenshot8.png "Screenshot of the main hero image")
 
 + **Cakes Section**
 
@@ -73,7 +73,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 + Includes close-up visuals of handcrafted cakes and intricate details.
 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![alt text](assets/screenshot/screenshot8.png "Screenshot of the Cake Section")
 
 + **Contact Page**
 
@@ -92,12 +92,17 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 + Displays testimonials from satisfied clients in an engaging layout.
   + Contains a dynamic sliding review section.
 
+![alt text](assets/screenshot/screenshot6.png "Screenshot of the Reviews Section")
+
  
 
 
 + **Prefooter Section**
 
 + Displays the inspiration for the logo name.
+
+
+![alt text](assets/screenshot/screenshot9.png "Screenshot of the Prefooter")
 
 
 + **Footer Section**
@@ -107,9 +112,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 - The section also includes the phone number of Hedona Design company, mail and city location.
 
 
-
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![alt text](assets/screenshot/screenshot10.png "Screenshot of the Footer")
 
 
 
