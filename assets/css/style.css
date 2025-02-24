@@ -191,6 +191,10 @@ main {
     margin-top: 120px;
     }
 
+    #gallery main {
+        margin-top: 30px;
+    }
+
 /* About Us section and image */ 
 #about-us { 
     padding: 5%; 
@@ -498,6 +502,7 @@ footer {
      max-width: 80%;  
      margin: 0 auto;  
      margin-bottom: 100px; 
+    
     } 
 
 #photos { 
