@@ -7,19 +7,14 @@ Hedona Design is a wedding planning website designed to showcase services, inspi
 ## Features 
 
 
++ **Navigation Bar**
 
-
-
-### Existing Features
-
-- __Navigation Bar__
-
-  - Featured on all pages, the full responsive navigation bar includes links to Logo, Home page, About Us page, Services page, Gallery page, Cake page and Contact page.
-  - This section will allow the user to easily navigate from page to page across all devices.
+  + Featured on all pages, the full responsive navigation bar includes links to Logo, Home page, About Us page, Services page, Gallery page, Cake page and Contact page.
+  + This section will allow the user to easily navigate from page to page across all devices.
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __Home page__
++ **Home page**
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Hedona Design with an eye catching hero image and cover text  to grab their attention.
