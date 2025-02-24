@@ -4,9 +4,9 @@
 
 /* Wildcard selector */ 
 * { 
-padding: 0; 
-margin: 0;  
-box-sizing: border-box; 
+    padding: 0; 
+    margin: 0;  
+    box-sizing: border-box; 
 } 
 
 /* General style rules */ 
@@ -27,52 +27,29 @@ body {
 nav {
     position: absolute;
     width: 100%;
-    top: 100%;
+   bottom: 10px;
     right: 0;   
     padding: 0 1rem;
-    gap: 20px;
     box-shadow: 0 2px 2px #dadada;
     display: none;
-    flex-direction: column;
-    align-items: baseline;
-    bottom: 5px;
-    z-index: 9999 !important;
     background-color: white;
+    overflow: hidden;
+    
  }
 
  /* Nav toggle */
- #nav-toggle:checked + label + nav {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    position: absolute;
-    right: 0;
-    top: 100%;
-    max-width: 230px;
-    width: 90%;
-    padding: 15px;
-    background: white;
-    z-index: 2000;
-    pointer-events: auto;
+ #nav-toggle:checked~nav {
+   display: block;
 
- }
+}
+#nav-toggle {
+ display: none;
+}
 
- #nav-toggle {
-    display: none;
-    position: absolute;
-    z-index: 3000;
-    width: 40px;
-    height: 40px;
-    opacity: 0;
- }
 
  .nav-toggle-label {
     font-size: 2rem;
-    position: absolute;
-    right: 10px;
-    top: 25px;
-    z-index: 3000;
-    cursor: pointer;
+   
  }
 
 /* Header, logo image and navbar menu list */
@@ -81,7 +58,7 @@ header {
     margin-top: 15px;
     padding: 0 1rem;
     position: fixed;
-    z-index: 1000;
+    z-index: 99;
     width: 100%;
     height: 90px;
     box-shadow: 0 2px 2px #dadada;
@@ -89,7 +66,7 @@ header {
     justify-content: space-between;
     align-items: baseline;
     border-top: 2px solid #dadada; 
-    overflow: hidden;     
+       
 }
 
 header a {
@@ -117,7 +94,7 @@ header a {
 
 #logo {
     width: 60%;
-    margin-top: 25px; 
+    margin-top: 50px; 
 }
 
  /* Hero image and cover-text */
@@ -212,7 +189,7 @@ main {
     margin-top: 120px;
     }
 
-/* About us section and image */ 
+/* About Us section and image */ 
 #about-us { 
     padding: 5%; 
    max-width: 1100px;
@@ -247,26 +224,18 @@ main {
     width: 100%;
     overflow: visible;
     word-wrap: break-word;
-    padding: 0 10px;
-
-
-
-
-
-     
-    } 
+    padding: 0 10px;  
+} 
         
 .about-us-text p { 
     margin-bottom: 20px;
     display: block;
-  
- 
-    }
+}
     
 .about-us-heading { 
     margin-bottom: 30px; 
     text-align: center; 
-    } 
+} 
 
  
 /* Review section */
@@ -275,13 +244,13 @@ main {
     width: 100%; 
     height: 700px; 
     overflow: hidden; 
-    } 
+} 
         
 .reviews { 
     width: 100%;  
     height: 100%; 
     object-fit: cover; 
-    } 
+} 
     
 .reviews-container { 
     position: absolute;
@@ -294,7 +263,7 @@ main {
     justify-content: space-between; 
     flex-wrap: wrap; 
     align-items: center; 
-    } 
+} 
         
 .comment-box { 
     background-color: white; 
@@ -319,11 +288,11 @@ main {
     word-wrap: break-word;  
     word-break: break-word;  
     word-spacing: 0.03em;
-    } 
+} 
         
 .comment-box:hover { 
     opacity: 1;  
-    } 
+} 
 
 
 /* Columns-Services */
@@ -331,7 +300,7 @@ main {
     width: 90%;  
     margin: 0 auto;  
     padding: 0 2%; 
-    }
+}
     
 .columns { 
     display: flex; 
@@ -339,7 +308,7 @@ main {
     justify-content: space-between; 
     gap: 20px;  
     width: 100%; 
-    } 
+} 
 
 .column { 
     flex: 1; 
@@ -691,35 +660,35 @@ margin-top: 2px;
     /* Header */
     
     nav {        
-        display: flex;        
+        display: block;        
          position: relative; 
-       top: 0;
-justify-content: flex-end;
+       padding-left: 1rem;
+       box-shadow: none;         
+            width: fit-content;  
+               
+    }
+    
+    #menu {
+        display: flex;
 
-        flex-direction: row;
-            box-shadow: none;         
-            width: auto;        
-             padding-right: 20px;      }
+    }
+    #menu > li {
+padding-right: 1rem;
+    }
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 200px;
+        line-height: 75px;
+        margin-top: 25px;
+    }
+
+
+
+       
    
-   #menu {
-       display: flex;
-       gap: 20px;
-      
-   }
-   #menu > li {
-       padding-left: 10px;
-       
-   }
-   .nav-toggle-label {
-       display: none;
-      
-      
-   }
-   #logo {
-       width: 80%;
-
-       
-   }
    
     .networks {
         font-size: 28px; 
@@ -907,12 +876,11 @@ overflow: hidden;
     height: 150px;  
     border-radius: 50%; 
     object-fit: cover; 
-    transition: transform 0.3s ease-in-out; 
+    
 }  
     
-.rounded-image:hover { 
-    transform: scale(2.2); 
-}
+
+
 #hero {
     height: 400px; 
 }
