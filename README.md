@@ -86,6 +86,13 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 ![alt text](assets/screenshot/screenshot11.png "Screenshot of the Contact Page")
 
++ **Thank You Page**
+
++ Includes a confirmation of submitted form and button to home page.
+
+
+![alt text](assets/screenshot/screenshot13.png "Screenshot of the Thank You page.")
+
 + **Reviews Section**
 
 
