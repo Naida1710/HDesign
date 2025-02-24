@@ -15,8 +15,7 @@ Hedona Design is a wedding planning website designed to showcase services, inspi
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
 + **Home page**
-
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
+ 
   - This section introduces the user to Hedona Design with an eye catching hero image and cover text  to grab their attention.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
