@@ -31,72 +31,72 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 ![alt text](assets/screenshot/screenshot4.png "Screenshot of the main hero image")
 
-+ **About Us Section**
+  + **About Us Section**
 
-+ Introduces the team and philosophy behind Hedona Design.
+  + Introduces the team and philosophy behind Hedona Design.
 
-+ Showcases the brand’s mission and dedication to crafting memorable wedding experiences.
+  + Showcases the brand’s mission and dedication to crafting memorable wedding experiences.
 
-+ Features an image collage of wedding designs and services.
+  + Features an image collage of wedding designs and services.
 
 
 ![alt text](assets/screenshot/screenshot5.png "Screenshot of the About Us Section")
 
-- __Services Section__
++ **Services Section**  
 
-+ Details wedding services such as cake design, floral arrangements, and event planning.
+  + Details wedding services such as cake design, floral arrangements, and event planning.
 
-+ Each section is complemented with images and descriptions.
+  + Each section is complemented with images and descriptions.
 
-+ Introduces a structured service breakdown: Cakes, Design & Flowers, and Coordination.
+  + Introduces a structured service breakdown: Cakes, Design & Flowers, and Coordination.
 
 
 ![alt text](assets/screenshot/screenshot7.png "Screenshot of the Services Section")
 
 + **Gallery Page**
 
-+ Displays a portfolio of previous wedding projects.
+  + Displays a portfolio of previous wedding projects.
 
-+ Uses an interactive grid layout that enlarges images on hover.
+  + Uses an interactive grid layout that enlarges images on hover.
 
-+ Features high-resolution images from past weddings.
+  + Features high-resolution images from past weddings.
 
 
 ![alt text](assets/screenshot/screenshot12.png "Screenshot of the Gallery Page")
 
 + **Cakes Section**
 
-+ Highlights custom wedding cakes created by Hedona Design.
+  + Highlights custom wedding cakes created by Hedona Design.
 
-+ Features an image carousel of cake designs.
+  + Features an image carousel of cake designs.
 
-+ Includes close-up visuals of handcrafted cakes and intricate details.
+  + Includes close-up visuals of handcrafted cakes and intricate details.
 
 
 ![alt text](assets/screenshot/screenshot8.png "Screenshot of the Cake Section")
 
 + **Contact Page**
 
-+ Includes a contact form for inquiries and booking.
+  + Includes a contact form for inquiries and booking.
 
-+ Features an interactive Google Map displaying the business location.
+  + Features an interactive Google Map displaying the business location.
 
-+ Allows users to book an appointment with an integrated date and time selector.
+  + Allows users to book an appointment with an integrated date and time selector.
 
 
 ![alt text](assets/screenshot/screenshot11.png "Screenshot of the Contact Page")
 
 + **Thank You Page**
 
-+ Includes a confirmation of submitted form and button to home page.
+  + Includes a confirmation of submitted form and button to home page.
 
 
 ![alt text](assets/screenshot/screenshot13.png "Screenshot of the Thank You page.")
 
 + **Reviews Section**
 
+  + Displays testimonials from satisfied clients in an engaging layout.
 
-+ Displays testimonials from satisfied clients in an engaging layout.
   + Contains a dynamic sliding review section.
 
 ![alt text](assets/screenshot/screenshot6.png "Screenshot of the Reviews Section")
@@ -106,7 +106,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 + **Prefooter Section**
 
-+ Displays the inspiration for the logo name.
+  + Displays the inspiration for the logo name.
 
 
 ![alt text](assets/screenshot/screenshot9.png "Screenshot of the Prefooter")
@@ -114,9 +114,9 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 + **Footer Section**
 
-- The section also includes a Facebook, Pinterest and Instagram social link that will open up in a new tab for easy navigation.
+  + The section also includes a Facebook, Pinterest and Instagram social link that will open up in a new tab for easy navigation.
 
-- The section also includes the phone number of Hedona Design company, mail and city location.
+  + The section also includes the phone number of Hedona Design company, mail and city location.
 
 
 ![alt text](assets/screenshot/screenshot10.png "Screenshot of the Footer")
@@ -125,50 +125,52 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 ### Features Left to Implement
 
-+ Add a detailed blog section with wedding planning tips and inspiration.
+  + Add a detailed blog section with wedding planning tips and inspiration.
 
-+ Implement an online booking calendar for real-time scheduling.
+  + Implement an online booking calendar for real-time scheduling.
 
-+ Include an FAQ section for common inquiries.
+  + Include an FAQ section for common inquiries.
 
 
 ## Testing 
 
-+ Lighthouse Performance Testing
+  + Lighthouse Performance Testing
 
-+ The website has been tested using Lighthouse, achieving high accessibility and performance scores.
+  + The website has been tested using Lighthouse, achieving high accessibility and performance scores.
 
-+ The website has been tested on desktop, laptop and iPad Pro, Samsung Galaxy S8+ and is responsive.sss
+  + The website has been tested on desktop, laptop and iPad Pro, Samsung Galaxy S8+ and is responsive.sss
+
+  ![alt text](assets/screenshot/screenshot14.png "Screenshot of the Lighthouse results")
 
 
 ## Technology
 
-+ HTML
-+ CSS
-+ Gitpod
-+ Github
-+ Visual Studio
+  + HTML
+  + CSS
+  + Gitpod
+  + Github
+  + Visual Studio
 
 
 ### Validator Testing 
 
-- HTML
-  - No errors were returned when passing through the official W3C validator.
-- CSS
-  - No errors were found when passing through the official (Jigsaw) validator.
+  + HTML
+    + No errors were returned when passing through the official W3C validator.
+  + CSS
+    + No errors were found when passing through the official (Jigsaw) validator.
 
 ### Unfixed Bugs
 
-- Fixed minor form submission issues before deployment.
+  + Fixed minor form submission issues before deployment.
 
-- Addressed layout inconsistencies on mobile devices.
+  + Addressed layout inconsistencies on mobile devices.
 
 
 ## Deployment
 
-+ This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+  + This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
-+ The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  + The site was deployed to GitHub pages. The steps to deploy are as follows: 
   + In the GitHub repository, navigate to the Settings tab, and then to Pages in Code and automation.
   + From the Deoploy and Branch source I chose Main branch and set folder to Root.
   + Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
@@ -181,21 +183,22 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 + Content
 
--All icons are from Font Awesome
-Media
+  + All icons are from Font Awesome
 
--Images Unsplash
--Some images have been taken by me
++ Media
+
+  + Images Unsplash
+  + Some images have been taken by me
 
 ### Content 
 
-- All icons are from Font Awesome.
-- The browser tab logo is from Favicon.
+  + All icons are from Font Awesome.
+  +  The browser tab logo is from Favicon.
 
 ### Media
 
-- Images Unsplash
-- Some images have been taken by me.
+  + Images Unsplash.
+  + Some images have been taken by me.
 
 
 
