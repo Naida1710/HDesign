@@ -62,7 +62,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 + Features high-resolution images from past weddings.
 
 
-![alt text](assets/screenshot/screenshot8.png "Screenshot of the main hero image")
+![alt text](assets/screenshot/screenshot12.png "Screenshot of the Gallery Page")
 
 + **Cakes Section**
 
@@ -84,7 +84,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 + Allows users to book an appointment with an integrated date and time selector.
 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![alt text](assets/screenshot/screenshot11.png "Screenshot of the Contact Page")
 
 + **Reviews Section**
 
