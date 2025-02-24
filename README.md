@@ -3,7 +3,7 @@
 Hedona Design is a website dedicated to providing wedding planning, coordination, and floral arrangement services. The site aims to help couples create unforgettable moments with personal and intimate wedding experiences. The website features detailed information about services, a gallery of previous work, and an easy booking system for consultations.
 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![alt text](assets/screenshot/screenshot%201.jpeg "Screenshot of the Hedona Design on different screen sizes")
 
 ## Features 
 
@@ -18,7 +18,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![alt text](assets/screenshot/screenshot3.png "Screenshot of the navigation bar")
 
 + **Home page**
  
@@ -29,10 +29,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
   + Includes a prominent banner image with a brand message.
 
 
-
-
-
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![alt text](assets/screenshot/screenshot4.png "Screenshot of the main hero image")
 
 + **About Us Section**
 
@@ -91,9 +88,11 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 + **Reviews Section**
 
-+ Displays testimonials from satisfied clients in an engaging layout.
 
-+ Contains a dynamic sliding review section.
++ Displays testimonials from satisfied clients in an engaging layout.
+  + Contains a dynamic sliding review section.
+
+ 
 
 
 + **Prefooter Section**
@@ -103,9 +102,9 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 + **Footer Section**
 
-+ The section also includes a Facebook, Pinterest and Instagram social link that will open up in a new tab for easy navigation.
+- The section also includes a Facebook, Pinterest and Instagram social link that will open up in a new tab for easy navigation.
 
-+ The section also includes the phone number of Hedona Design company, mail and city location.
+- The section also includes the phone number of Hedona Design company, mail and city location.
 
 
 
@@ -129,7 +128,10 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 + The website has been tested using Lighthouse, achieving high accessibility and performance scores.
 
-+ **Technology**
++ The website has been tested on desktop, laptop and iPad Pro, Samsung Galaxy S8+ and is responsive.sss
+
+
+## Technology
 
 + HTML
 + CSS
@@ -147,14 +149,14 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 ### Unfixed Bugs
 
-+ Fixed minor form submission issues before deployment.
+- Fixed minor form submission issues before deployment.
 
-+ Addressed layout inconsistencies on mobile devices.
+- Addressed layout inconsistencies on mobile devices.
 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
++ This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 + The site was deployed to GitHub pages. The steps to deploy are as follows: 
   + In the GitHub repository, navigate to the Settings tab 
@@ -165,40 +167,28 @@ This section should describe the process you went through to deploy the project 
 
 
 
-
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
++ Content
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+-All icons are from Font Awesome
+Media
+
+-Images Unsplash
+-Some images have been taken by me
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- All icons are from Font Awesome.
+- The browser tab logo is from Favicon.
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- Images Unsplash
+- Some images have been taken by me.
 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
 
-## Other General Project Advice
 
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
 
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
 
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
