@@ -169,11 +169,11 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 + This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 + The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  + In the GitHub repository, navigate to the Settings tab 
-  + From the source section drop-down menu, select the Master Branch
-  + Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  + In the GitHub repository, navigate to the Settings tab, and then to Pages in Code and automation.
+  + From the Deoploy and Branch source I chose Main branch and set folder to Root.
+  + Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-  + The live link can be found here - https://github.com/Naida1710/HDesign.git
+  + The live link can be found here - https://naida1710.github.io/HDesign/
 
 
 
