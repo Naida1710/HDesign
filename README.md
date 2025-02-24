@@ -31,7 +31,7 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 ![alt text](assets/screenshot/screenshot4.png "Screenshot of the main hero image")
 
-  + **About Us Section**
++ **About Us Section**
 
   + Introduces the team and philosophy behind Hedona Design.
 
