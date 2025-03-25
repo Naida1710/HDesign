@@ -134,13 +134,47 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
 
 ## Testing 
 
-  + Lighthouse Performance Testing
+### Manual testing
 
-  + The website has been tested using Lighthouse, achieving high accessibility and performance scores.
+#### Navigation and link testing
 
-  + The website has been tested on desktop, laptop and iPad Pro, Samsung Galaxy S8+ and is responsive.sss
+  + Verified that all navigation links direct users to the correct pages.
+  + Tested the navigation bar, buttons, and social media icons to confirm they link to there respective pages.
+
+#### Responsiveness testing
+
+  + Ensured all webpages adapt properly to different screen width.
+  + The website has been tested on desktop, laptop and iPad Pro, Samsung Galaxy S8+ and is responsive.
+
+
+#### Hover effects and User interaction
+##### Checked hover effects on:
+
++ Navigation bar
++ Icons
++ Buttons
++ Social media links
+
+#### Form Validation and Redirection
+
++ Tested the booking form to confirm that:
+   + Redirect users to the correct successpage after submission.
+   + Display validation messages when required fields are left empty.
+   + Prevent submission of inputs containing only whitespace.
+
+### Automated testing
+
+   + Lighthouse Performance Testing
+   + The website has been tested using Lighthouse, achieving high accessibility and performance scores.
 
   ![alt text](assets/screenshot/screenshot14.png "Screenshot of the Lighthouse results")
+
+### General Testing
+
+   + I tested it in different browsers Safari, Google Chrome.
+   + All the website's sections are readable and easy to understand.
+
+   + External links are set to **open in a new tab** to avoid losing the user’s place on the website.
 
 
 ## Technology
