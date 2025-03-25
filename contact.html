@@ -35,7 +35,8 @@
         <!-- Logo image -->
         <div id="logo-container">
             <a href="index.html">
-                <img id="logo" src="assets/images/logo.png"> </a>
+                <img id="logo" src="assets/images/logo.png" alt="Hedona design-wedding planning and floral">
+            </a>> 
         </div>
 
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
@@ -67,17 +68,17 @@
 
     <main class="contact-page">
         <form action="thank-you.html" method="GET">
-            <section id="contact">
+            <div id="contact">
 
                 <div class="row">
                     <div class="field">
-                        <label for="firstname">First name:</label>
-                        <br><input type="text" id="name" required/>
+                        <label for="first-name">First name:</label>
+                        <br><input type="text" id="first-name" required>
                     </div>
 
                     <div class="field">
-                        <label for="lastname">Last name:</label>
-                        <br><input type="text" id="name" required/>
+                        <label for="last-name">Last name:</label>
+                        <br><input type="text" id="last-name" required>
                     </div>
                 </div>
 
@@ -85,10 +86,10 @@
                 <label for="email">Email:</label>
                 <input id="email" type="email" required>
 
-                <label for="date-time">Event Date and Time:</label>
+                <label for="meeting-time">Event Date and Time:</label>
 
                 <input type="datetime-local" id="meeting-time" name="meeting-time" min="2025-01-01T00:00"
-                    max="2025-12-31T00:00" required/>
+                    max="2025-12-31T00:00" required>
 
                 <br><label for="text">Guest Count:</label>
                 <input id="text" type="text" required>
@@ -97,9 +98,9 @@
                 <textarea id="message" cols="50" rows="5" name="message" required></textarea>
 
                 <div class="text-center"> <br> <input type="submit" value="Submit" class="submit-btn"></div>
-                </div>
+               
 
-            </section>
+            </div>
         </form>
     </main>
 
