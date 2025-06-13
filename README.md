@@ -146,21 +146,21 @@ Hedona Design is a website dedicated to providing wedding planning, coordination
   + Test responsiveness of the navigation menu and image galleries
   + Evaluate mobile, tablet, and desktop user experience
 
-#### Index page
+ ### Index page
 
 ![index.html](assets/images/ind.png "Index testing")
 
-#### Gallery page
+### Gallery page
 
 ![gallery.html](assets/images/gall.png "Gallery testing")
 
-#### Contact page
+### Contact page
 
-![contact.html](assets/images/con.png "Contact testing")
+![contact.html](assets/images/thank.png "Contact testing")
 
-#### Thank You page
+### Thank You page
 
-![thanks.html](assets/images/thank.png "Thank You page testing")
+![thanks.html](assets/images/con.png "Thank You page testing")
 
 #### Responsiveness testing
 
